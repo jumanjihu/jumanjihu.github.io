@@ -4,23 +4,23 @@
 baseurl:
 url: https://jumanjihu.github.io/
 date_format: "ordinal"
-title: 码志
+title: 码路
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+description: "hushiwei的个人博客"
+keywords: 码路, hushiwei, jumanjihu
+timezone: Asia/Chengdu
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: hushiwei
+organization: keruyun.com
+organization_url: http://www.keruyun.com/
+github_username: jumanjihu
+location: Chengdu, China
+email: 530394970@qq.com
 
 # ---------------- #
 #    Navigation    #
